@@ -1,0 +1,19 @@
+.cat-chip { color: #616161; margin-right: 5px; text-decoration: none; }
+
+.cat-chip:hover div { color: #fff; background-color: #616161; }
+
+.cat-chip div { -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+
+.cat-div .divider { margin: 20px 0; }
+
+.post-date { margin-left: 10px; }
+
+ul.cat-post:not(.browser-default) { padding-left: 0; }
+
+ul.cat-post:not(.browser-default) a { text-decoration: none; color: #00695c; }
+
+ul.cat-post:not(.browser-default) li { list-style-position: inside; padding-left: 40px; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
+
+ul.cat-post:not(.browser-default) li:hover { list-style-type: circle; padding-left: 20px; }
+
+/*# sourceMappingURL=categories.css.map */

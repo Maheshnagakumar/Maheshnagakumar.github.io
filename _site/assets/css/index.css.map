@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "index.css",
+	"sources": [
+		"index.sass"
+	],
+	"sourcesContent": [
+		"main {\n  div {\n    .row {\n      margin-top: 20px; } }\n\n  ul {\n    &:not(.browser-default) {\n      &.pagination {\n        padding-left: 0;\n\n        li {\n          a {\n            &:hover {\n              text-decoration: none; } } } } } } }\n\n#post-title {\n  margin-bottom: 2px;\n  font-weight: bold; }\n\n#post-date {\n  margin-bottom: 8px;\n  font-size: 14px;\n\n  i {\n    font-size: 11.5px;\n    margin-right: 10px; } }\n\n#post-content {\n  margin-top: 5px; }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAEI,IAFA,CACF,GAAG,CACD,IAAI,CAAC,EACH,UAAU,EAAE,IAAI,GAAG;;AAHzB,AAOM,IAPF,CAKF,EAAE,AAEG,WAAW,CADb,GAAK,CAAA,gBAAgB,EACP,EACX,YAAY,EAAE,CAAC,GAKqB;;AAb5C,AAYY,IAZR,CAKF,EAAE,AAEG,WAAW,CADb,GAAK,CAAA,gBAAgB,EAIlB,EAAE,CACA,CAAC,CACG,KAAK,CAAC,EACN,eAAe,EAAE,IAAI,GAAG;;AAEtC,AAAA,WAAW,CAAC,EACV,aAAa,EAAE,GAAG,EAClB,WAAW,EAAE,IAAI,GAAG;;AAEtB,AAAA,UAAU,CAAC,EACT,aAAa,EAAE,GAAG,EAClB,SAAS,EAAE,IAAI,GAIU;;AAN3B,AAIE,UAJQ,CAIR,CAAC,CAAC,EACA,SAAS,EAAE,MAAM,EACjB,YAAY,EAAE,IAAI,GAAG;;AAEzB,AAAA,aAAa,CAAC,EACZ,UAAU,EAAE,GAAG,GAAG"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "page.css",
+	"sources": [
+		"page.sass"
+	],
+	"sourcesContent": [
+		"main {\n  div {\n    .row {\n      margin-top: 20px; } } }\n\n#page-info {\n  h3 {\n    font-weight: bold;\n    margin-bottom: 5px; } }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAEI,IAFA,CACF,GAAG,CACD,IAAI,CAAC,EACH,UAAU,EAAE,IAAI,GAAG;;AAEzB,AACE,UADQ,CACR,EAAE,CAAC,EACD,WAAW,EAAE,IAAI,EACjB,aAAa,EAAE,GAAG,GAAG"
+}
